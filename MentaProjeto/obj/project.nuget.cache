@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FdMqILHa7FXtHLoNrhYdr9Zf/uruyTnfxlBwKnmH56g/2VIbT1Cw4YaBly6q+7+Ky2jiZ6OLVVQV2DHkBSTGcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\jobFeedback\\MentaProjeto\\MentaProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.8\\microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\6.0.8\\microsoft.netcore.app.host.linux-arm64.6.0.8.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\6.0.8\\microsoft.netcore.app.host.linux-arm.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
